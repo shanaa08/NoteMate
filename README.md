@@ -31,7 +31,7 @@ NoteMate is an AI-powered study assistant designed to make learning easier and m
 
 4. Run the application:
 
-   `streamlit run ctf.py`
+   `streamlit run Ctf.py`
 
 ## Note
 
