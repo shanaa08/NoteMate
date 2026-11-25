@@ -1,6 +1,7 @@
 # NoteMate – AI-Powered Study Assistant
 
 NoteMate is an AI-powered study assistant designed to make learning easier and more interactive. It transforms uploaded study notes into useful learning resources using Google's Gemini AI.
+🚀 **[Try NoteMate Live](https://notemate-qkmbzzvpu2nfr2qexdngvq.streamlit.app/)**
 
 ## Features
 
@@ -17,7 +18,7 @@ NoteMate is an AI-powered study assistant designed to make learning easier and m
 - Google Gemini AI
 - PDFPlumber
 - Python-DOCX
-
+  
 ## Installation
 
 1. Clone this repository.
